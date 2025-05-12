@@ -152,11 +152,11 @@ const game = () =>{
         console.log("Congrats you won, $"+winnings.toString())
 
         if(balance<=0){
-            console.log("You ran out of money haha noob")
+            console.log("You ran out of money")
             break;
         }
 
-        const playAgain = prompt("Do yo want to play again (y/n)?")
+        const playAgain = prompt("Do you want to play again (y/n)?")
 
         if(playAgain != "y")break;
     }
