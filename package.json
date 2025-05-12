@@ -1,0 +1,16 @@
+{
+  "name": "vscode",
+  "version": "1.0.0",
+  "main": "project.js",
+  "dependencies": {
+    "corepack": "^0.32.0",
+    "npm": "^10.9.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
